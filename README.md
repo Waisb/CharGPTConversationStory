@@ -17,4 +17,4 @@
 
 
 
-P.S у меня есть бесплатный бот: t.me/GetrixBeta_bot
+P.S у меня есть бесплатный бот: https://t.me/GetrixBeta_bot
