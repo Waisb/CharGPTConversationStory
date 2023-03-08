@@ -6,7 +6,7 @@ import json
 import openai
 
 #Апи ключ openai
-openai.api_key ="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"
+openai.api_key ="YOUR API KEY HERE!"
 #Файл в который будет записываться история сообщений
 FileName = "example.json"
 
