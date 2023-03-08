@@ -14,3 +14,7 @@
 
 ## Файл выглядит так
 ![Json look](https://user-images.githubusercontent.com/87566995/223649260-76e70071-d0ab-44b1-834c-44b9682bd1db.png)
+
+
+
+P.S у меня есть бесплатный бот: t.me/GetrixBeta_bot
